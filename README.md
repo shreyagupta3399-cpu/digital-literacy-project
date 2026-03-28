@@ -30,3 +30,8 @@ While working on this project, I got to understand what digital literacy really 
 At first, I was a little confused about using GitHub, but gradually I learned how to upload files, create a portfolio, and manage my project properly. It was a new experience for me.
 I also enjoyed creating my design on Canva. It helped me understand how we can spread awareness using digital tools in a creative way.
 Overall, this project helped me improve my digital skills and gave me confidence to use new platforms like GitHub.
+
+#Task 5: Conclusion
+This project was a very useful learning experience for me. It helped me understand the importance of digital literacy in today’s world.
+Through this project, I learned how to create designs using Canva and how to use GitHub to upload and present my work. Initially, it was a bit difficult, but with practice, I became more comfortable.
+Overall, this project improved my digital knowledge and skills, and I feel more confident using online tools now.
