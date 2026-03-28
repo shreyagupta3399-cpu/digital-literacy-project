@@ -12,6 +12,9 @@ This GitHub repository is my project portfolio.
 
  Task 3: Report
 I have prepared a report for this project.
+ #project report:
+ [click here to view my report]
+ (https://github.com/shreyagupta3399-cpu/digital-literacy-project/blob/main/digital%20literacy%20project%20report%20.pdf)
 
  What I Learned:
 - Canva designing
