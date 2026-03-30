@@ -31,9 +31,9 @@ I have prepared a report for this project.
 (https://www.canva.com/design/DAHFO4qYcOk/Wpd4992uEM3Dxda-MOUqsQ/edit?utm_content=DAHFO4qYcOk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Task 4: Email Etiquette
-In this task, I learned how important it is to write emails in a proper and respectful way. Nowadays, email is one of the most common ways of communication, especially in college and professional life.
-Before this, I never paid much attention to how an email should be written. But through this task, I understood that even small things like writing a clear subject, starting with a polite greeting, and ending the email properly make a big difference.
-I also learned that emails should be simple, clear, and to the point. Using formal language is important, and we should avoid using slang or casual words. It is also necessary to check spelling and grammar before sending an email, as it shows our seriousness and professionalism.
+In this task, I learned how important it is to write emails in a proper and respectful way. Nowadays, email is one of the most common ways of communication, especially in college and professional life. 
+Before doing this task, I didn’t pay much attention to how emails should be written. But through this activity, I realized that even small things like writing a clear subject, starting with a polite greeting, and ending the email properly can make a big difference.
+I also understood that emails should be simple, clear, and to the point. Using formal language is important, and we should avoid slang or casual words. It is also necessary to check spelling and grammar before sending an email, as it reflects our professionalism.
 Overall, this task helped me improve my communication skills and made me more confident in writing proper and professional emails.
 
 # Task 5: Cybercrime Awareness
