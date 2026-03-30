@@ -12,6 +12,8 @@ This GitHub repository is my project portfolio.
 
 # Task 3: Platforms (HackerRank and Google Form)
 I created an account on HackerRank and solved a problem. I also created a Google Form for digital literacy awareness.
+# Google form link:
+[click here to view my form](https://docs.google.com/forms/d/e/1FAIpQLSdriBSmNeIYBqC7iCvKWC8CnqxZIrgkZIte4yFyQt_nWCRXFg/viewform?usp=header)
 
 # Report
 I have prepared a report for this project.
